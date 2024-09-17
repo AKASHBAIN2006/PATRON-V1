@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="">
-    <img alt="𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆" height="300" src="https://telegra.ph/file/551d68eb74a30dda96c0c.jpg">
-    <h1 align="center">𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆</h1>
+    <img alt="𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆" height="300" src="IMG-20240906-WA0039.jpg">
+    <h1 align="center"><ＳＵＢＡＲＵ 𝛁1 𝚩𝐔𝐆</h1>
   </a>
 </p>
 <p align="center">
