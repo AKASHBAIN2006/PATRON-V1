@@ -30,9 +30,8 @@ global.sessionName = 'session';
 global.connect = true; // Set to false if using QR Code
 global.namabot = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
 global.author = '𝚸𝚫𝚻𝚪𝚯𝚴 𝛁1 𝚩𝐔𝐆'; // Do not change
-global.packname = 'PATRON 🚹'; // Change if needed
-global.url = 'https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q'; // Do not change
-
+global.packname = ' 🎋🐈‍⬛𝐇𝐄𝐘 𝐓𝐇𝐄𝐑𝐄 𝐈𝐌  ＳＵＢＡＲＵ🌈™ 🐳𓃠🎋🕊+919614477'; // Change if needed
+global.url = 'https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q'; // Do not chan
 //===========================//
 
 global.listr = ` │⬡ 1GB Cpu: 50% - 3.000/bln
